@@ -1,0 +1,15 @@
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.exe.config
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.csprojResolveAssemblyReference.cache
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.exe
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.pdb
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.exe
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.pdb
+C:\Users\Asus NB\Desktop\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.exe.config
+C:\Users\Asus NB\Desktop\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.exe
+C:\Users\Asus NB\Desktop\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.pdb
+C:\Users\Asus NB\Desktop\Cour\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.exe.config
+C:\Users\Asus NB\Desktop\Cour\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.exe
+C:\Users\Asus NB\Desktop\Cour\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.pdb
+C:\Users\Asus NB\Desktop\Cour\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.exe
+C:\Users\Asus NB\Desktop\Cour\ExoPoupeesRA\ExoPoupeesRA\bin\Debug\ExoPoupeesRA.pdb
+C:\Users\Asus NB\Desktop\Cour\ExoPoupeesRA\ExoPoupeesRA\obj\Debug\ExoPoupeesRA.csprojResolveAssemblyReference.cache

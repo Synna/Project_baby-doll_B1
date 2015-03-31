@@ -1,0 +1,7 @@
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\obj\Debug\TestEtape6.csprojResolveAssemblyReference.cache
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\bin\Debug\TestEtape6.dll
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\bin\Debug\TestEtape6.pdb
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\bin\Debug\ExoPoupeesRA.exe
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\bin\Debug\ExoPoupeesRA.pdb
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\obj\Debug\TestEtape6.dll
+d:\bibliothèques\documents\visual studio 2013\Projects\ExoPoupeesRA\TestEtape6\obj\Debug\TestEtape6.pdb
